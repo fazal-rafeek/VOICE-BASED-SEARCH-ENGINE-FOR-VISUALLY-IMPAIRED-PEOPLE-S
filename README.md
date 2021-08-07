@@ -1,0 +1,2 @@
+# VOICE BASED SEARCH ENGINE FOR VISUALLY IMPAIRED PEOPLE'S
+ To develop a search engine which supports Man-Machine interaction purely in the form of voice. A novel Voice based Search Engine and Web-page Reader . Allows the blind people to command and control the web browser through their voice and assist the search using voice . Speech recognition and generation technologies offer a potential solution to these problems by augmenting the capabilities of a web browser.
