@@ -1,0 +1,26 @@
+D:\Project-2017\UGProject\playvoice\playvoice\bin\Debug\playvoice.exe
+D:\Project-2017\UGProject\playvoice\playvoice\bin\Debug\playvoice.pdb
+D:\Project-2017\UGProject\playvoice\playvoice\obj\x86\Debug\playvoice.Form1.resources
+D:\Project-2017\UGProject\playvoice\playvoice\obj\x86\Debug\playvoice.Properties.Resources.resources
+D:\Project-2017\UGProject\playvoice\playvoice\obj\x86\Debug\playvoice.csproj.GenerateResource.Cache
+D:\Project-2017\UGProject\playvoice\playvoice\obj\x86\Debug\playvoice.exe
+D:\Project-2017\UGProject\playvoice\playvoice\obj\x86\Debug\playvoice.pdb
+D:\Project-2017\UGProject\playvoice\playvoice\obj\x86\Debug\playvoice.csprojResolveAssemblyReference.cache
+D:\2017CompleteProject\Bishop\playvoice\playvoice\obj\x86\Debug\playvoice.exe
+D:\2017CompleteProject\Bishop\playvoice\playvoice\obj\x86\Debug\playvoice.pdb
+D:\Eng Project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.exe
+D:\Eng Project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.pdb
+D:\Eng Project\VoiceBased\playvoice\playvoice\bin\Debug\playvoice.exe
+D:\Eng Project\VoiceBased\playvoice\playvoice\bin\Debug\playvoice.pdb
+D:\Eng Project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.csprojResolveAssemblyReference.cache
+D:\Eng Project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.Form1.resources
+D:\Eng Project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.Properties.Resources.resources
+D:\Eng Project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\fazal project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.exe
+C:\Users\User\Desktop\fazal project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.pdb
+C:\Users\User\Desktop\fazal project\VoiceBased\playvoice\playvoice\bin\Debug\playvoice.exe
+C:\Users\User\Desktop\fazal project\VoiceBased\playvoice\playvoice\bin\Debug\playvoice.pdb
+C:\Users\User\Desktop\fazal project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\fazal project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.Form1.resources
+C:\Users\User\Desktop\fazal project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.Properties.Resources.resources
+C:\Users\User\Desktop\fazal project\VoiceBased\playvoice\playvoice\obj\x86\Debug\playvoice.csproj.GenerateResource.Cache
